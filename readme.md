@@ -1,10 +1,29 @@
-My Budget é uma aplicação web para você controlar suas finanças.
+# My Budget 
 
-Basicamente você terá os inputs de "income", que serão sua receita, e outcome, que serão seus custos. Esses dados resultam no "balance" que é income - outcome, ou seja, quanto você tem após seus gastos.
-Na UI fica explícito o Output na cor vermelha e income verde. Além disso, há um gráfico que exibe a re;acão income x outcome.
+This application allows you to control your finances. 
+It has an income, an expense and a balance dashboard displaying to the user the info. 
+Add your wihshes to your wishlist so you can be more motivated about saving money. 
+No more boring spreadsheets. 
 
-Por último, existe um wishlist, que é sua lista de objetos que você deseja comprar. Você entra com nome e o valor e quando o valor for menor que seu balance o objeto fica amarelo com uma sacolinha, significando que você pode compra-lo.
 
-Ps: Usei o localstorage para gravar as informações.
+The UI explicit the expenses in red color incomes at green color. Also, there is a graph that displays income x outcome
 
-Este projeto foi feito com Javascript Vanilla,HTML,CSS e Bootsrap 5.
+![myBudget](https://user-images.githubusercontent.com/62574338/144487647-d13103ca-3c4d-415c-954d-8cd3ddddf7f4.gif)
+
+# 💾 About the project
+
+This project was proposed and the end of module about "DOM" at "Santader Corders- web full Stack degree" by Lets code.
+
+# 🎛️ languages and libs
+Javascript Vanilla
+HTML
+CSS
+Bootsrap 5
+
+# 🐸 the author
+
+I'm Igor,a 25 years old web developer. I like to read,code and play League. 
+<div> 
+  <p>Here's my LinkedIn and Email if you wanto to reach me out<p>
+   <a href="https://www.linkedin.com/in/igor-pierre-b7139b125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:igorpcmiranda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
