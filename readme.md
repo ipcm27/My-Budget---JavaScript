@@ -14,13 +14,13 @@ The UI explicit the expenses in red color incomes at green color. Also, there is
 
 This project was proposed and the end of module about "DOM" at "Santader Corders- web full Stack degree" by Lets code.
 
-# 🎛️ languages and libs
+# 🎛️ Languages and libs
 Javascript Vanilla
 HTML
 CSS
 Bootsrap 5
 
-# 🐸 the author
+# 🐸 The author
 
 I'm Igor,a 25 years old web developer. I like to read,code and play League. 
 <div> 
